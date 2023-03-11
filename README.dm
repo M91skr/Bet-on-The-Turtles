@@ -1,4 +1,4 @@
-## Bet on The Turtles
+# Bet on The Turtles
 
 ## Description
 This project is a **Bet on The Turtles** (_console_).
